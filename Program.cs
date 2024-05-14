@@ -8,6 +8,7 @@ namespace Team_work
         {
             Console.WriteLine("Hello, My name is Joanna");
             Console.WriteLine("Hi, My name is Mustafa");
+            Console.WriteLine("Hey My name is Thomas");
             Console.ReadLine();
         }
         
